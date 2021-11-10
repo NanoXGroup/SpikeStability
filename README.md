@@ -3,8 +3,6 @@
 ## Overview
 This repository contains a python package written along with the manuscript from Zhao, Tang, Partarrieu et al. ["Tracking neural activity from the same cells during the entire adult life of mice"](https://www.biorxiv.org/content/10.1101/2021.10.29.466524v1). It was developped in order to make a standalone package being able to do the various steps of the neural signal analysis. The ultimate goal is to make consistency/stability analysis of long-term neural recordings easier and more accessible. As this is adapted to a specific type of BMI technology, there are necessarily functions and parts of the package that might not generalize so well to your data.
 
-**Note: This package is a work in progress and changes may be made to make certain portions of the code clearer and more accessible**
-
 ## Installation
 Before any of the following, make sure you have a working installation of python. If you're starting from scratch, the easiest will probably be to download the [Anaconda](https://www.anaconda.com/products/individual) toolkit which will also download what you need to be able to run the notebooks and the anaconda command prompt which may be useful in running some of the commands below.
 
