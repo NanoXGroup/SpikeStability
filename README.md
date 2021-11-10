@@ -1,7 +1,7 @@
 # spike_stability
 
 ## Overview
-This repository contains a python package written along with the manuscript from Zhao, Tang, Partarrieu et al. "Tracking neural activity from the same cells during the entire adult life of mice". It was developped in order to make a standalone package being able to do the various steps of the neural signal analysis. The ultimate goal is to make consistency/stability analysis of long-term neural recordings easier and more accessible. As this is adapted to a specific type of BMI technology, there are necessarily functions and parts of the package that might not generalize so well to your data.
+This repository contains a python package written along with the manuscript from Zhao, Tang, Partarrieu et al. ["Tracking neural activity from the same cells during the entire adult life of mice"](https://www.biorxiv.org/content/10.1101/2021.10.29.466524v1). It was developped in order to make a standalone package being able to do the various steps of the neural signal analysis. The ultimate goal is to make consistency/stability analysis of long-term neural recordings easier and more accessible. As this is adapted to a specific type of BMI technology, there are necessarily functions and parts of the package that might not generalize so well to your data.
 
 **Note: This package is a work in progress and changes may be made to make certain portions of the code clearer and more accessible**
 
@@ -63,7 +63,7 @@ Miscellaneous utility functions.
 If SpikeStability has been useful for your work:
 
 > Siyuan Zhao, Xin Tang, Sebastian Partarrieu, Shiqi Guo, Ren Liu, Jaeyong Lee, Zuwan Lin, Jia Liu
-bioRxiv 2021.10.29.466524; doi: https://doi.org/10.1101/2021.10.29.46652
+bioRxiv 2021.10.29.466524; doi: https://doi.org/10.1101/2021.10.29.466524
 
 ### Contact
 Feel free to open an issue on the github and we'll respond as quickly as possible.
